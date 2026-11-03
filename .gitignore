@@ -1,0 +1,20 @@
+# colcon / ROS 2 build output
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Recordings (keep only the compressed GIF in docs/img)
+*.mp4
+*.mov
+*.mkv
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
